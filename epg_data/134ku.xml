@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="TVHeadend-0ff96106aa2e0f9a384c3a2662ca005797a6b399~openwrt3" source-info-name="tvh-Tvheadend">
+<channel id="TVB星河">
+  <display-name>TVB星河</display-name></channel>
+<channel id="凤凰中文台">
+  <display-name>凤凰中文台</display-name></channel>
+<channel id="RTTV今日俄罗斯">
+  <display-name>RTTV今日俄罗斯</display-name></channel>
+<channel id="澳门澳视">
+  <display-name>澳门澳视</display-name></channel>
+<channel id="CUBA 古巴视野">
+  <display-name>CUBA 古巴视野</display-name></channel>
+<channel id="National Geographic国家地埋">
+  <display-name>National Geographic国家地埋</display-name></channel>
+<channel id="bb6f6d9a918f50c9c61c41714a9ae077">
+  <display-name>168</display-name>
+  <display-name>5000</display-name>
+</channel>
+<channel id="TV5 Monde">
+  <display-name>TV5 Monde</display-name></channel>
+<channel id="凤凰资讯台">
+  <display-name>凤凰资讯台</display-name></channel>
+<channel id="NOW新闻台">
+  <display-name>NOW新闻台</display-name></channel>
+<channel id="AXN亚洲">
+  <display-name>AXN亚洲</display-name></channel>
+<channel id="19db21b8c3e0879dcf3c54ad6c8fbef3">
+  <display-name>184</display-name>
+  <display-name>5000</display-name>
+</channel>
+<channel id="Discovery Channel探索频道">
+  <display-name>Discovery Channel探索频道</display-name></channel>
+<channel id="CNA 新加坡亚洲新闻台">
+  <display-name>CNA 新加坡亚洲新闻台</display-name></channel>
+<channel id="Star Movie">
+  <display-name>Star Movie</display-name></channel>
+<channel id="KBS World">
+  <display-name>KBS World</display-name></channel>
+<channel id="f7a5f94536042ced5e906010b0f507de">
+  <display-name>179</display-name>
+  <display-name>5000</display-name>
+</channel>
+<channel id="Cinemax Asia">
+  <display-name>Cinemax Asia</display-name></channel>
+<channel id="KTS 喀秋莎">
+  <display-name>KTS 喀秋莎</display-name></channel>
+<channel id="Star Sport1">
+  <display-name>Star Sport1</display-name></channel>
+<channel id="Star Sport2">
+  <display-name>Star Sport2</display-name></channel>
+<channel id="凤凰电影台">
+  <display-name>凤凰电影台</display-name></channel>
+<channel id="CNN Aisa">
+  <display-name>CNN Aisa</display-name></channel>
+<channel id="NHK World Premium">
+  <display-name>NHK World Premium</display-name></channel>
+<channel id="CNBC Asia">
+  <display-name>CNBC Asia</display-name></channel>
+</tv>
